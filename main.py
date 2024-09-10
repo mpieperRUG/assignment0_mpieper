@@ -1,5 +1,5 @@
 import numpy as np
 
-x = np.array(range(1, 11))
-print(x)
+num = np.array(range(1, 11))
+print(num)
 print()
